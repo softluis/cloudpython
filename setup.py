@@ -14,6 +14,8 @@ here = path.abspath(path.dirname(__file__))
 with open(path.join(here, 'README.md'), encoding='utf-8') as f:
     long_description = f.read()
 
+varival = coiso
+    
 setup(
     name='python-hello-world-flask',
     version='1.0.0',
